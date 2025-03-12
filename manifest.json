@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "shiny",
+  "packages": [
+    {
+      "name": "shiny",
+      "version": "1.8.0"
+    },
+    {
+      "name": "ggplot2",
+      "version": "3.4.4"
+    }
+  ],
+  "files": [
+    {
+      "path": "app.R",
+      "checksum": "sha256:8fc1f11902e27f888e253352b145764c34d32780fa6165d5c86a893b448e41b8"
+    }
+  ]
+}
